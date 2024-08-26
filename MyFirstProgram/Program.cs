@@ -1,4 +1,6 @@
-﻿string option = "3";
+﻿//SEE THE PYTHON CODE IN UNIT 01 - SLIDE 16
+
+string option = "3";
 
 if(option == "1" || option == "2")
     Console.WriteLine("You chose option " + option);
