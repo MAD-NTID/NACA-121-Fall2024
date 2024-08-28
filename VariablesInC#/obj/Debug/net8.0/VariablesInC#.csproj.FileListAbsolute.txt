@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\VariablesInC#\bin\Debug\net8.0\VariablesInC#.exe
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\VariablesInC#\bin\Debug\net8.0\VariablesInC#.deps.json
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\VariablesInC#\bin\Debug\net8.0\VariablesInC#.runtimeconfig.json
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\VariablesInC#\bin\Debug\net8.0\VariablesInC#.dll
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\VariablesInC#\bin\Debug\net8.0\VariablesInC#.pdb
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\VariablesInC#\obj\Debug\net8.0\VariablesInC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\VariablesInC#\obj\Debug\net8.0\VariablesInC#.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\VariablesInC#\obj\Debug\net8.0\VariablesInC#.AssemblyInfo.cs
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\VariablesInC#\obj\Debug\net8.0\VariablesInC#.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\VariablesInC#\obj\Debug\net8.0\VariablesInC#.sourcelink.json
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\VariablesInC#\obj\Debug\net8.0\VariablesInC#.dll
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\VariablesInC#\obj\Debug\net8.0\refint\VariablesInC#.dll
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\VariablesInC#\obj\Debug\net8.0\VariablesInC#.pdb
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\VariablesInC#\obj\Debug\net8.0\VariablesInC#.genruntimeconfig.cache
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\VariablesInC#\obj\Debug\net8.0\ref\VariablesInC#.dll
