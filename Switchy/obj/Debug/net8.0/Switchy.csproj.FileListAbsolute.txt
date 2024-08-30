@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\Switchy\obj\Debug\net8.0\Switchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\Switchy\obj\Debug\net8.0\Switchy.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\Switchy\obj\Debug\net8.0\Switchy.AssemblyInfo.cs
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\Switchy\obj\Debug\net8.0\Switchy.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\Switchy\obj\Debug\net8.0\Switchy.sourcelink.json
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\Switchy\bin\Debug\net8.0\Switchy.exe
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\Switchy\bin\Debug\net8.0\Switchy.deps.json
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\Switchy\bin\Debug\net8.0\Switchy.runtimeconfig.json
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\Switchy\bin\Debug\net8.0\Switchy.dll
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\Switchy\bin\Debug\net8.0\Switchy.pdb
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\Switchy\obj\Debug\net8.0\Switchy.dll
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\Switchy\obj\Debug\net8.0\refint\Switchy.dll
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\Switchy\obj\Debug\net8.0\Switchy.pdb
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\Switchy\obj\Debug\net8.0\Switchy.genruntimeconfig.cache
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\Switchy\obj\Debug\net8.0\ref\Switchy.dll
