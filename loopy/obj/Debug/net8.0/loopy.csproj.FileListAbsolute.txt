@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\loopy\bin\Debug\net8.0\loopy.exe
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\loopy\bin\Debug\net8.0\loopy.deps.json
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\loopy\bin\Debug\net8.0\loopy.runtimeconfig.json
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\loopy\bin\Debug\net8.0\loopy.dll
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\loopy\bin\Debug\net8.0\loopy.pdb
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\loopy\obj\Debug\net8.0\loopy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\loopy\obj\Debug\net8.0\loopy.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\loopy\obj\Debug\net8.0\loopy.AssemblyInfo.cs
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\loopy\obj\Debug\net8.0\loopy.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\loopy\obj\Debug\net8.0\loopy.sourcelink.json
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\loopy\obj\Debug\net8.0\loopy.dll
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\loopy\obj\Debug\net8.0\refint\loopy.dll
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\loopy\obj\Debug\net8.0\loopy.pdb
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\loopy\obj\Debug\net8.0\loopy.genruntimeconfig.cache
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\loopy\obj\Debug\net8.0\ref\loopy.dll
