@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\Method\bin\Debug\net8.0\Method.exe
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\Method\bin\Debug\net8.0\Method.deps.json
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\Method\bin\Debug\net8.0\Method.runtimeconfig.json
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\Method\bin\Debug\net8.0\Method.dll
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\Method\bin\Debug\net8.0\Method.pdb
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\Method\obj\Debug\net8.0\Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\Method\obj\Debug\net8.0\Method.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\Method\obj\Debug\net8.0\Method.AssemblyInfo.cs
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\Method\obj\Debug\net8.0\Method.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\Method\obj\Debug\net8.0\Method.sourcelink.json
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\Method\obj\Debug\net8.0\Method.dll
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\Method\obj\Debug\net8.0\refint\Method.dll
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\Method\obj\Debug\net8.0\Method.pdb
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\Method\obj\Debug\net8.0\Method.genruntimeconfig.cache
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\Method\obj\Debug\net8.0\ref\Method.dll
