@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\validation\bin\Debug\net8.0\validation.exe
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\validation\bin\Debug\net8.0\validation.deps.json
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\validation\bin\Debug\net8.0\validation.runtimeconfig.json
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\validation\bin\Debug\net8.0\validation.dll
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\validation\bin\Debug\net8.0\validation.pdb
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\validation\obj\Debug\net8.0\validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\validation\obj\Debug\net8.0\validation.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\validation\obj\Debug\net8.0\validation.AssemblyInfo.cs
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\validation\obj\Debug\net8.0\validation.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\validation\obj\Debug\net8.0\validation.sourcelink.json
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\validation\obj\Debug\net8.0\validation.dll
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\validation\obj\Debug\net8.0\refint\validation.dll
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\validation\obj\Debug\net8.0\validation.pdb
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\validation\obj\Debug\net8.0\validation.genruntimeconfig.cache
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\validation\obj\Debug\net8.0\ref\validation.dll
