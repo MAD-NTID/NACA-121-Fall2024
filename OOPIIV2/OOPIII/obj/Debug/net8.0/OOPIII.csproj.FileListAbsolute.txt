@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\OOPIIV2\OOPIII\bin\Debug\net8.0\OOPIII.exe
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\OOPIIV2\OOPIII\bin\Debug\net8.0\OOPIII.deps.json
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\OOPIIV2\OOPIII\bin\Debug\net8.0\OOPIII.runtimeconfig.json
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\OOPIIV2\OOPIII\bin\Debug\net8.0\OOPIII.dll
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\OOPIIV2\OOPIII\bin\Debug\net8.0\OOPIII.pdb
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\OOPIIV2\OOPIII\obj\Debug\net8.0\OOPIII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\OOPIIV2\OOPIII\obj\Debug\net8.0\OOPIII.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\OOPIIV2\OOPIII\obj\Debug\net8.0\OOPIII.AssemblyInfo.cs
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\OOPIIV2\OOPIII\obj\Debug\net8.0\OOPIII.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\OOPIIV2\OOPIII\obj\Debug\net8.0\OOPIII.sourcelink.json
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\OOPIIV2\OOPIII\obj\Debug\net8.0\OOPIII.dll
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\OOPIIV2\OOPIII\obj\Debug\net8.0\refint\OOPIII.dll
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\OOPIIV2\OOPIII\obj\Debug\net8.0\OOPIII.pdb
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\OOPIIV2\OOPIII\obj\Debug\net8.0\OOPIII.genruntimeconfig.cache
+C:\Users\kscics\Desktop\NACA-121-Fall-Demo\OOPIIV2\OOPIII\obj\Debug\net8.0\ref\OOPIII.dll
