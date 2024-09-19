@@ -39,7 +39,7 @@ int MenuOptions()
 
 Item NewItem()
 {
-    Item item = null;
+    
     int id;
     string name;
     string category;
@@ -74,8 +74,9 @@ Item NewItem()
         Console.WriteLine("Item name cannot be empty or null");
 
     }
-
-    return new Item(id, name, category);
+    //create a new item object and return it
+    Item item = new Item(id, name, category);
+    return item;
     
 }
 
@@ -98,6 +99,17 @@ while(menuLoop) {
         break;
         case 4:
         break;
+        case 5:
+        break;
+        case 6:
+            string equipments = inventory.ShowAvailableEquipments();
+            if(equipments!="") {
+                Console.WriteLine(inventory.ShowAvailableEquipments());
+            } else {
+                Console.WriteLine("No inventory to show");
+            }
+            
+            break;
         default:
             Console.WriteLine($"Invalid input! Please enter a choice of 1-{menuOptions.Length}");
             break;
