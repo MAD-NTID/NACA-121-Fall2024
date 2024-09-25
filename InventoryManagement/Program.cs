@@ -3,6 +3,10 @@ const int MAX_PERSONS = 30000;
 
 // Create an instance of the Inventory class to hold all items
 Inventory inventory = new Inventory();
+// inventory.Add(new Item(12, "Laptop", "Macbook pro"));
+// inventory.Add(new Item(13, "Laptop", "Lenovo"));
+// inventory.Add(new Item(14, "Laptop", "HP"));
+// inventory.Add(new Item(15, "Laptop", "Gateway"));
 
 // Create an array to store up to MAX_PERSONS persons
 Person[] persons = new Person[MAX_PERSONS];
@@ -90,6 +94,39 @@ Item NewItem()
     return item;
 }
 
+void ShowPersonPrompt()
+{
+    for(int i = 0; i < persons.Length; i++) {
+        if(persons[i] is not null)
+            Console.WriteLine($"{i+1}. {persons[i].Name}");
+    }
+
+    Console.WriteLine($"{persons.Length+1} - Create a new person");
+}
+
+Person NewPerson()
+{
+    string name = "";
+    int id = 0;
+
+    while(true) {
+        Console.Write("Name:");
+        name = Console.ReadLine();
+
+        if(!string.IsNullOrEmpty(name)) {
+            break;
+        }
+
+        Console.WriteLine("Name cannot be empty");
+    }
+
+    while(true){
+        
+    }
+
+    
+}
+
 // Menu loop to repeatedly show the menu and execute the user's choice
 while (menuLoop)
 {
@@ -114,7 +151,11 @@ while (menuLoop)
 
         // Case 2: Lend equipment (this section is currently empty)
         case 2:
+            Console.WriteLine("Items available for lending:");
+            Console.WriteLine(inventory.ShowAvailableEquipments());
+            Console.Write("Which item do you want to lend:");
             break;
+            DateTime.Now.AddDays(3);
 
         // Case 3: Return equipment (this section is currently empty)
         case 3:

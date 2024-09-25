@@ -92,7 +92,9 @@ public class Inventory
         string equipment = "";
         for(int i = 0;  i < items.Length; i++) {
             if (items[i] != null && items[i].Available) {
-                equipment+=items[i].ToString() + "\n";
+                equipment+=$"{i+1}.{items[i].ToString()}\n";
+                
+                //(i+1) +items[i].ToString() + "\n";
             }
         }
 
