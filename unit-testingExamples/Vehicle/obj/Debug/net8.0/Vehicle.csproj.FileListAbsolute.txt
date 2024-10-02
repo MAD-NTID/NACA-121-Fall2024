@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\NACA-121-Fall2024\unit-testingExamples\Vehicle\bin\Debug\net8.0\Vehicle.exe
+C:\Users\kscics\Desktop\NACA-121-Fall2024\unit-testingExamples\Vehicle\bin\Debug\net8.0\Vehicle.deps.json
+C:\Users\kscics\Desktop\NACA-121-Fall2024\unit-testingExamples\Vehicle\bin\Debug\net8.0\Vehicle.runtimeconfig.json
+C:\Users\kscics\Desktop\NACA-121-Fall2024\unit-testingExamples\Vehicle\bin\Debug\net8.0\Vehicle.dll
+C:\Users\kscics\Desktop\NACA-121-Fall2024\unit-testingExamples\Vehicle\bin\Debug\net8.0\Vehicle.pdb
+C:\Users\kscics\Desktop\NACA-121-Fall2024\unit-testingExamples\Vehicle\obj\Debug\net8.0\Vehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\NACA-121-Fall2024\unit-testingExamples\Vehicle\obj\Debug\net8.0\Vehicle.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\NACA-121-Fall2024\unit-testingExamples\Vehicle\obj\Debug\net8.0\Vehicle.AssemblyInfo.cs
+C:\Users\kscics\Desktop\NACA-121-Fall2024\unit-testingExamples\Vehicle\obj\Debug\net8.0\Vehicle.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\NACA-121-Fall2024\unit-testingExamples\Vehicle\obj\Debug\net8.0\Vehicle.sourcelink.json
+C:\Users\kscics\Desktop\NACA-121-Fall2024\unit-testingExamples\Vehicle\obj\Debug\net8.0\Vehicle.dll
+C:\Users\kscics\Desktop\NACA-121-Fall2024\unit-testingExamples\Vehicle\obj\Debug\net8.0\refint\Vehicle.dll
+C:\Users\kscics\Desktop\NACA-121-Fall2024\unit-testingExamples\Vehicle\obj\Debug\net8.0\Vehicle.pdb
+C:\Users\kscics\Desktop\NACA-121-Fall2024\unit-testingExamples\Vehicle\obj\Debug\net8.0\Vehicle.genruntimeconfig.cache
+C:\Users\kscics\Desktop\NACA-121-Fall2024\unit-testingExamples\Vehicle\obj\Debug\net8.0\ref\Vehicle.dll
