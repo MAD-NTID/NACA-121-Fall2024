@@ -1,33 +1,15 @@
 using System.Linq.Expressions;
 
-public class Godzilla : IBeast
+public class Godzilla:Beast
 {
     
-    private string name;
-    private int maxHealthPoint, currentHealthPoint;
-    public string Name {
-        get{return name;}
-        set{name=value;}
-     }
 
-   
-    public int MaxHealthPoint {
-        get{return maxHealthPoint;}
-        set{maxHealthPoint = value;}
-     }
-    public int CurrentHealthPoint { 
-        get{return currentHealthPoint;}
-        set{currentHealthPoint = value;}
-     }
 
-    public Godzilla(string name, int currentHealthPoint, int maxHealthPoint)
+    public Godzilla(string name, int currentHealthPoint, int maxHealthPoint):base(name, currentHealthPoint, maxHealthPoint)
     {
-        this.name = name;
-        this.currentHealthPoint = currentHealthPoint;
-        this.maxHealthPoint = maxHealthPoint;
     }
 
-    public IAttack Attack()
+    public override IAttack Attack()
     {
         IAttack[] attacks = {
             new Attack("Punch", 20),
@@ -42,14 +24,15 @@ public class Godzilla : IBeast
         return attacks[pick];
     }
 
-    public void TakeDamage(IAttack attack)
+    public override void TakeDamage(IAttack attack)
     {
         
-        int points = attack.Damage;
+      
         if(attack.Name == "fire" ){
-            points = (int)(this.currentHealthPoint * 0.30);
+            int points = (int)(this.CurrentHealthPoint * 0.30);
+            attack.Damage = points;
         }
         
-        this.currentHealthPoint-=points;
+        base.TakeDamage(attack);
     }
 }

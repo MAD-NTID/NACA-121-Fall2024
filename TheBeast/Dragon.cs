@@ -1,15 +1,20 @@
 public class Dragon : Beast
 {
+    private bool breathed;
 
-
-    public Dragon(string name, int currentHealthPoint, int maxHealthPoint)
+    public Dragon():base("DEFAULT_NAME",0,0)
     {
-        this.Name = name;
-        this.CurrentHealthPoint = currentHealthPoint;
-        this.MaxHealthPoint = maxHealthPoint;
+        this.breathed = false;
     }
 
-    public IAttack Attack()
+
+    public Dragon(string name, int currentHealthPoint, int maxHealthPoint):base(name, currentHealthPoint, maxHealthPoint)
+    {
+        this.weakness= "Electricity";
+    
+    }
+
+    public override IAttack Attack()
     {
         IAttack[] attacks = {
             new Attack("Punch", 20),
@@ -24,13 +29,29 @@ public class Dragon : Beast
         return attacks[pick];
     }
 
-    public void TakeDamage(IAttack attack)
+    public override void TakeDamage(IAttack attack)
     {
-        int points = attack.Damage;
+        
         if(attack.Name == "spike" ){
-            points = (int)(this.CurrentHealthPoint * 0.30);
+            int points = (int)(this.CurrentHealthPoint * 0.30);
+            attack.Damage = points;
         }
+        base.TakeDamage(attack);
+ 
+    }
 
-        this.CurrentHealthPoint-=points;
+    public string Breath()
+    {
+        this.breathed = true;
+        return  "FIRE!!!!";
+    }
+
+    public override bool Equals(object? obj)
+    {
+        if(!(obj is Dragon))
+            return false;
+        Dragon dragon = (Dragon)obj;
+
+        return dragon.Name == this.Name && dragon.CurrentHealthPoint == this.CurrentHealthPoint && dragon.MaxHealthPoint == this.MaxHealthPoint;
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\NACA-121-Fall2024\TheBeast\obj\Debug\net8.0\TheBeast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\NACA-121-Fall2024\TheBeast\obj\Debug\net8.0\TheBeast.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\NACA-121-Fall2024\TheBeast\obj\Debug\net8.0\TheBeast.AssemblyInfo.cs
+C:\Users\kscics\Desktop\NACA-121-Fall2024\TheBeast\obj\Debug\net8.0\TheBeast.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\NACA-121-Fall2024\TheBeast\obj\Debug\net8.0\TheBeast.sourcelink.json
+C:\Users\kscics\Desktop\NACA-121-Fall2024\TheBeast\bin\Debug\net8.0\TheBeast.exe
+C:\Users\kscics\Desktop\NACA-121-Fall2024\TheBeast\bin\Debug\net8.0\TheBeast.deps.json
+C:\Users\kscics\Desktop\NACA-121-Fall2024\TheBeast\bin\Debug\net8.0\TheBeast.runtimeconfig.json
+C:\Users\kscics\Desktop\NACA-121-Fall2024\TheBeast\bin\Debug\net8.0\TheBeast.dll
+C:\Users\kscics\Desktop\NACA-121-Fall2024\TheBeast\bin\Debug\net8.0\TheBeast.pdb
+C:\Users\kscics\Desktop\NACA-121-Fall2024\TheBeast\obj\Debug\net8.0\TheBeast.dll
+C:\Users\kscics\Desktop\NACA-121-Fall2024\TheBeast\obj\Debug\net8.0\refint\TheBeast.dll
+C:\Users\kscics\Desktop\NACA-121-Fall2024\TheBeast\obj\Debug\net8.0\TheBeast.pdb
+C:\Users\kscics\Desktop\NACA-121-Fall2024\TheBeast\obj\Debug\net8.0\TheBeast.genruntimeconfig.cache
+C:\Users\kscics\Desktop\NACA-121-Fall2024\TheBeast\obj\Debug\net8.0\ref\TheBeast.dll
