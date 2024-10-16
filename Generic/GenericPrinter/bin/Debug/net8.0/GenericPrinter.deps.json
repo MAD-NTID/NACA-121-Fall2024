@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GenericPrinter/1.0.0": {
+        "runtime": {
+          "GenericPrinter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GenericPrinter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

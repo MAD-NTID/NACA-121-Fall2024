@@ -1,4 +1,4 @@
-public class Beast:IBeast
+public abstract class Beast:IBeast
 {
     private string name;
     private int maxHealthPoint, currentHealthPoint;
@@ -32,8 +32,5 @@ public class Beast:IBeast
        this.CurrentHealthPoint-=points;
     }
 
-    public virtual IAttack Attack()
-    {
-        return new Attack("Smash", 500);
-    }
+    public abstract IAttack Attack();
 }

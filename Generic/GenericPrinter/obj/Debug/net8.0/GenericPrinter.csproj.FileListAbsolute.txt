@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\NACA-121-Fall2024\Generic\GenericPrinter\obj\Debug\net8.0\GenericPrinter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\NACA-121-Fall2024\Generic\GenericPrinter\obj\Debug\net8.0\GenericPrinter.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\NACA-121-Fall2024\Generic\GenericPrinter\obj\Debug\net8.0\GenericPrinter.AssemblyInfo.cs
+C:\Users\kscics\Desktop\NACA-121-Fall2024\Generic\GenericPrinter\obj\Debug\net8.0\GenericPrinter.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\NACA-121-Fall2024\Generic\GenericPrinter\obj\Debug\net8.0\GenericPrinter.sourcelink.json
+C:\Users\kscics\Desktop\NACA-121-Fall2024\Generic\GenericPrinter\bin\Debug\net8.0\GenericPrinter.exe
+C:\Users\kscics\Desktop\NACA-121-Fall2024\Generic\GenericPrinter\bin\Debug\net8.0\GenericPrinter.deps.json
+C:\Users\kscics\Desktop\NACA-121-Fall2024\Generic\GenericPrinter\bin\Debug\net8.0\GenericPrinter.runtimeconfig.json
+C:\Users\kscics\Desktop\NACA-121-Fall2024\Generic\GenericPrinter\bin\Debug\net8.0\GenericPrinter.dll
+C:\Users\kscics\Desktop\NACA-121-Fall2024\Generic\GenericPrinter\bin\Debug\net8.0\GenericPrinter.pdb
+C:\Users\kscics\Desktop\NACA-121-Fall2024\Generic\GenericPrinter\obj\Debug\net8.0\GenericPrinter.dll
+C:\Users\kscics\Desktop\NACA-121-Fall2024\Generic\GenericPrinter\obj\Debug\net8.0\refint\GenericPrinter.dll
+C:\Users\kscics\Desktop\NACA-121-Fall2024\Generic\GenericPrinter\obj\Debug\net8.0\GenericPrinter.pdb
+C:\Users\kscics\Desktop\NACA-121-Fall2024\Generic\GenericPrinter\obj\Debug\net8.0\GenericPrinter.genruntimeconfig.cache
+C:\Users\kscics\Desktop\NACA-121-Fall2024\Generic\GenericPrinter\obj\Debug\net8.0\ref\GenericPrinter.dll

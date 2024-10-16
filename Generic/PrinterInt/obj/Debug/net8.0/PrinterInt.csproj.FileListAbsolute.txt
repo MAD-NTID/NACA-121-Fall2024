@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\NACA-121-Fall2024\Generic\PrinterInt\bin\Debug\net8.0\PrinterInt.exe
+C:\Users\kscics\Desktop\NACA-121-Fall2024\Generic\PrinterInt\bin\Debug\net8.0\PrinterInt.deps.json
+C:\Users\kscics\Desktop\NACA-121-Fall2024\Generic\PrinterInt\bin\Debug\net8.0\PrinterInt.runtimeconfig.json
+C:\Users\kscics\Desktop\NACA-121-Fall2024\Generic\PrinterInt\bin\Debug\net8.0\PrinterInt.dll
+C:\Users\kscics\Desktop\NACA-121-Fall2024\Generic\PrinterInt\bin\Debug\net8.0\PrinterInt.pdb
+C:\Users\kscics\Desktop\NACA-121-Fall2024\Generic\PrinterInt\obj\Debug\net8.0\PrinterInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\NACA-121-Fall2024\Generic\PrinterInt\obj\Debug\net8.0\PrinterInt.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\NACA-121-Fall2024\Generic\PrinterInt\obj\Debug\net8.0\PrinterInt.AssemblyInfo.cs
+C:\Users\kscics\Desktop\NACA-121-Fall2024\Generic\PrinterInt\obj\Debug\net8.0\PrinterInt.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\NACA-121-Fall2024\Generic\PrinterInt\obj\Debug\net8.0\PrinterInt.sourcelink.json
+C:\Users\kscics\Desktop\NACA-121-Fall2024\Generic\PrinterInt\obj\Debug\net8.0\PrinterInt.dll
+C:\Users\kscics\Desktop\NACA-121-Fall2024\Generic\PrinterInt\obj\Debug\net8.0\refint\PrinterInt.dll
+C:\Users\kscics\Desktop\NACA-121-Fall2024\Generic\PrinterInt\obj\Debug\net8.0\PrinterInt.pdb
+C:\Users\kscics\Desktop\NACA-121-Fall2024\Generic\PrinterInt\obj\Debug\net8.0\PrinterInt.genruntimeconfig.cache
+C:\Users\kscics\Desktop\NACA-121-Fall2024\Generic\PrinterInt\obj\Debug\net8.0\ref\PrinterInt.dll
