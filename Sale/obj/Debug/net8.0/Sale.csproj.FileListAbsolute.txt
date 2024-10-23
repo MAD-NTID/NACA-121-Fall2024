@@ -1,0 +1,15 @@
+C:\Users\mxbics\code\NACA-121-Fall2024\Sale\bin\Debug\net8.0\Sale.exe
+C:\Users\mxbics\code\NACA-121-Fall2024\Sale\bin\Debug\net8.0\Sale.deps.json
+C:\Users\mxbics\code\NACA-121-Fall2024\Sale\bin\Debug\net8.0\Sale.runtimeconfig.json
+C:\Users\mxbics\code\NACA-121-Fall2024\Sale\bin\Debug\net8.0\Sale.dll
+C:\Users\mxbics\code\NACA-121-Fall2024\Sale\bin\Debug\net8.0\Sale.pdb
+C:\Users\mxbics\code\NACA-121-Fall2024\Sale\obj\Debug\net8.0\Sale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxbics\code\NACA-121-Fall2024\Sale\obj\Debug\net8.0\Sale.AssemblyInfoInputs.cache
+C:\Users\mxbics\code\NACA-121-Fall2024\Sale\obj\Debug\net8.0\Sale.AssemblyInfo.cs
+C:\Users\mxbics\code\NACA-121-Fall2024\Sale\obj\Debug\net8.0\Sale.csproj.CoreCompileInputs.cache
+C:\Users\mxbics\code\NACA-121-Fall2024\Sale\obj\Debug\net8.0\Sale.sourcelink.json
+C:\Users\mxbics\code\NACA-121-Fall2024\Sale\obj\Debug\net8.0\Sale.dll
+C:\Users\mxbics\code\NACA-121-Fall2024\Sale\obj\Debug\net8.0\refint\Sale.dll
+C:\Users\mxbics\code\NACA-121-Fall2024\Sale\obj\Debug\net8.0\Sale.pdb
+C:\Users\mxbics\code\NACA-121-Fall2024\Sale\obj\Debug\net8.0\Sale.genruntimeconfig.cache
+C:\Users\mxbics\code\NACA-121-Fall2024\Sale\obj\Debug\net8.0\ref\Sale.dll
