@@ -1,6 +1,6 @@
 using System.Collections;
 
-public class Queue<T> : IQueue<T>, IEnumerable<T>
+public class Queue<T> : IQueue<T>, IEnumerable
 {
     private Node<T> front;
     private Node<T> back;
@@ -109,9 +109,9 @@ public class Queue<T> : IQueue<T>, IEnumerable<T>
         return this.front.ToString();
     }
 
-    public IEnumerable<T> QueueEnumeratorCustom()
+    public IEnumerator<T> GetEnumeratorCustom()
     {
-        Node<T> current = this.front;
+         Node<T> current = this.front;
 
         while(current!=null) 
         {
@@ -124,6 +124,8 @@ public class Queue<T> : IQueue<T>, IEnumerable<T>
 
     IEnumerator IEnumerable.GetEnumerator()
     {
-        return QueueEnumeratorCustom();
+        return GetEnumeratorCustom();
     }
+
+
 }
