@@ -25,19 +25,6 @@ public class InsertionSort<T>
 
     }
 
-    public void DescendingSort(T[] elements)
-    {
-        int i = 1;
-        while(i < elements.Length){
-            int j = i;
-            
-            while(j > 0 && !IsGreater(elements[j-1],elements[j])) {
-                Swap(elements,j);
-                j = j-1;
-            }
-            i++;
-        }
-    }
 
     public void Swap(T[] elements, int j)
     {
@@ -52,18 +39,4 @@ public class InsertionSort<T>
     }
 
 
-    public bool IsAscending(T[] elements)
-    {
-        for(int i = 1; i < elements.Length; i++) {
-            if(!IsGreater(elements[i],elements[i-1]))
-                return false;
-        }
-
-        return true;
-    }
-
-    public bool IsDescending(T[] elements)
-    {
-        return !IsAscending(elements);
-    }
 }
