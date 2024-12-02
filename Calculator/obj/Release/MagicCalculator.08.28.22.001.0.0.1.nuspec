@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MagicCalculator.08.28.22.001</id>
+    <version>0.0.1</version>
+    <authors>d3c0d3r</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="cdf8e5ace3d1cc58b2f02b10485b53a1c114b124" />
+    <dependencies>
+      <group targetFramework="net9.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\kscics\Desktop\NACA-121-Fall2024\Calculator\bin\Release\net9.0\Calculator.dll" target="lib\net9.0\Calculator.dll" />
+  </files>
+</package>

@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\NACA-121-Fall2024\lambdaPart1\bin\Debug\net9.0\lambdaPart1.exe
+C:\Users\kscics\Desktop\NACA-121-Fall2024\lambdaPart1\bin\Debug\net9.0\lambdaPart1.deps.json
+C:\Users\kscics\Desktop\NACA-121-Fall2024\lambdaPart1\bin\Debug\net9.0\lambdaPart1.runtimeconfig.json
+C:\Users\kscics\Desktop\NACA-121-Fall2024\lambdaPart1\bin\Debug\net9.0\lambdaPart1.dll
+C:\Users\kscics\Desktop\NACA-121-Fall2024\lambdaPart1\bin\Debug\net9.0\lambdaPart1.pdb
+C:\Users\kscics\Desktop\NACA-121-Fall2024\lambdaPart1\obj\Debug\net9.0\lambdaPart1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\NACA-121-Fall2024\lambdaPart1\obj\Debug\net9.0\lambdaPart1.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\NACA-121-Fall2024\lambdaPart1\obj\Debug\net9.0\lambdaPart1.AssemblyInfo.cs
+C:\Users\kscics\Desktop\NACA-121-Fall2024\lambdaPart1\obj\Debug\net9.0\lambdaPart1.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\NACA-121-Fall2024\lambdaPart1\obj\Debug\net9.0\lambdaPart1.sourcelink.json
+C:\Users\kscics\Desktop\NACA-121-Fall2024\lambdaPart1\obj\Debug\net9.0\lambdaPart1.dll
+C:\Users\kscics\Desktop\NACA-121-Fall2024\lambdaPart1\obj\Debug\net9.0\refint\lambdaPart1.dll
+C:\Users\kscics\Desktop\NACA-121-Fall2024\lambdaPart1\obj\Debug\net9.0\lambdaPart1.pdb
+C:\Users\kscics\Desktop\NACA-121-Fall2024\lambdaPart1\obj\Debug\net9.0\lambdaPart1.genruntimeconfig.cache
+C:\Users\kscics\Desktop\NACA-121-Fall2024\lambdaPart1\obj\Debug\net9.0\ref\lambdaPart1.dll
